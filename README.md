@@ -8,4 +8,4 @@ This project refers to the API that is serving the main APP.
 2. Then start the server:
     ```bash
     npm start
-## That' it's all folks
+## That's it's all folks
